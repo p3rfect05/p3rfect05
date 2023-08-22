@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋! 
+I'm a web developer who is passionate about building powerful & functional web applications. I use Django/DRF in development but always open to new web frameworks and technologies overall.
 
 # 
 <!--
