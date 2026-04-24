@@ -9,13 +9,13 @@ I care about clean architecture, fault-tolerant design, and strong engineering p
 
 ## ⚙️ Tech Stack
 
-**Backend**
+**Backend:**
 Go, PostgreSQL, Redis, Kafka, RabbitMQ, REST, gRPC
 
-**Infrastructure**
+**Infrastructure:**
 Docker, Kubernetes, GitLab CI/CD, Helm, Grafana, Prometheus, Loki, Tempo
 
-**Architecture**
+**Architecture:**
 Microservices, High-load Systems, Cloud-native architecture, SRE, Observability, Clean architecture
 
 ## 📚 Currently Learning
